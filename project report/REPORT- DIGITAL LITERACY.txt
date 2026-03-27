@@ -1,0 +1,90 @@
+﻿Name – SRISHTI  RAI
+Reg No. -25BAI10554
+Branch – B.Tech CSE(AI&ML)
+Year – 1st Year
+Course Code - CSE0001 
+Course Name-  Digital Literacy
+Date - 27th March 2026
+
+
+
+
+
+
+INTRODUCTION
+Digital literacy is an essential skill in today’s world, where technology plays a major role in education and communication. This project was assigned to help students understand how to effectively use digital tools, maintain a professional online presence, and stay safe online. As a Student Digital Ambassador, the goal was to guide peers in navigating the digital environment responsibly.
+The project consists of five tasks, each focusing on a different aspect of digital literacy such as infographic creation, digital portfolio building, exploring platforms, professional communication, and cybercrime awareness. Through this project, I gained practical knowledge about digital tools and learned how to use them efficiently. It also improved my understanding of online safety and professional behavior in the digital world.
+
+
+
+
+TASK -1
+For Task 1, I created a digital literacy infographic using Canva, an online design platform. The infographic focuses on explaining the concept of digital literacy and its importance for students. It includes key topics such as safe internet practices, useful digital tools, and email etiquette.
+The design uses visuals, icons, and short text to make the information easy to understand. I included tips such as using strong passwords, avoiding suspicious links, and maintaining a professional online presence. The infographic is designed in a way that it can be quickly understood by students and used as a reference.
+One challenge I faced was organizing all the information in a single page without making it look crowded. However, this helped me learn how to present information clearly and effectively. This task improved my creativity and helped me understand how visual content can be used to spread awareness.
+
+
+
+
+
+
+
+
+
+
+TASK-2
+In Task 2, I created my digital portfolio by setting up accounts on GitHub, LinkedIn, and Kaggle. These platforms are important for students to showcase their skills and connect with professional opportunities.
+GitHub is used to store and manage coding projects, and I created a profile README to introduce myself and my learning goals. LinkedIn is a professional networking platform where I added my educational details and will use it to connect with professionals and explore internships. Kaggle is useful for learning data science and participating in competitions.
+These platforms will be useful over the next four years as I continue to build my skills and portfolio. I plan to upload projects on GitHub, connect with industry professionals on LinkedIn, and practice data-related problems on Kaggle. This task helped me understand the importance of having a professional digital presence.
+
+
+
+
+TASK-3
+For Task 3, I explored coding and collaboration platforms. I used CodeChef to complete a beginner-level coding challenge. This helped me understand basic programming concepts and improve my problem-solving skills.
+I also created a Google Form titled “Digital Literacy Awareness Quiz” with five questions. The form included both multiple-choice and short-answer questions. The responses were automatically collected in a Google Sheet, making it easy to analyze the data.
+These platforms are very useful for academic purposes. Coding platforms like CodeChef help improve logical thinking and programming skills, while tools like Google Forms help in conducting surveys and collecting data efficiently. This task gave me hands-on experience with practical digital tools that will be useful in my academic journey.
+
+
+
+
+
+
+
+
+TASK-4
+Digital communication plays a very important role in academic and professional environments. Poor communication, such as sending emails without a proper subject line or using informal language, can create misunderstandings and leave a negative impression.
+For example, if a student sends an unclear or unprofessional email to a professor, it may result in confusion or even rejection of the request. Proper email etiquette, including a clear subject line, polite tone, and structured message, is essential.
+Through this task, I learned how to write professional emails and communicate effectively online. It helped me understand the importance of clarity, respect, and proper formatting in digital communication.
+
+
+
+
+
+
+
+
+TASK-5
+While researching cybercrime, Cyberbullying refers to the use of digital platforms such as social media, messaging apps, and online forums to harass, threaten, or harm individuals. It can include spreading rumors, posting hurtful comments, sharing private information without consent, or sending threatening messages. Unlike traditional bullying, cyberbullying can happen anytime and reach a wide audience quickly.
+The impact of cyberbullying can be serious, affecting a person’s mental health, confidence, and academic performance. To prevent cyberbullying, individuals should practice responsible digital behavior, avoid sharing personal information publicly, and report abusive content. Platforms also provide blocking and reporting features to ensure online safety.
+As responsible digital citizens, we must promote kindness, respect, and ethical behavior in online spaces to create a safer digital environment for everyone.
+
+
+
+
+
+
+
+
+
+
+CONCLUSION
+This project helped me understand the importance of digital literacy in today’s world. I learned how to use various digital tools, create a professional online presence, and communicate effectively. It also increased my awareness of cyber threats and how to stay safe online. Each task provided practical knowledge that will be useful in my academic and professional life. Overall, this project improved my confidence in using digital platforms responsibly and effectively.
+
+
+REFERENCES 
+•        Canva –  https://canva.com
+•        GitHub – https://github.com
+•        LinkedIn – https://www.linkedin.com
+•        CodeChef –https://www.codechef.com/
+ •        National Cyber Crime Portal – https://cybercrime.gov.in
